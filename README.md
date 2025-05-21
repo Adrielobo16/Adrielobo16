@@ -48,7 +48,7 @@ I'm a Mechatronics and Embedded Systems student who is passionate about Embedded
   <!--h2 without bottom border-->
   <div id="user-content-toc">
     <ul align="left">
-      <summary><h2 style="display: inline-block">How to reach me🤝</h2></summary>
+      <summary><h2 style="display: inline-block">Búscame en 🤝</h2></summary>
     </ul>
   <!--icons and links-->
   <p align="left">
@@ -74,7 +74,6 @@ I'm a Mechatronics and Embedded Systems student who is passionate about Embedded
 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 <br/>
 
