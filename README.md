@@ -8,7 +8,7 @@ Holaaa, soy Adriel!
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- BREVE DESCRIPCION -->
-- 📚 I am currently studying at [Institute Certus](https://www.certus.edu.pe/)
+- 📚 Estoy actualmente estudiando en la [Universidad La Salle Bajío]((https://www.lasallebajio.edu.mx/))
 
 - 🌱 I am currently in the race **Software Design and Development**
 
