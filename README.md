@@ -12,8 +12,6 @@ Holaaa, soy Adriel!
 
 - 🌱 Actualmente estoy estudiando **Ingeniería en Electrónica y Telecomunicaciones**
 
-- 🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization
-
 - 📫 How to reach me **adrielectronica.robotics@gmail.com**
 
 <!-- CONTACTO -->
