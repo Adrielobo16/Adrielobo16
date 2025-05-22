@@ -10,7 +10,7 @@ Holaaa, soy Adriel!
 <!-- BREVE DESCRIPCION -->
 - 📚 Estoy actualmente estudiando en la [Universidad La Salle Bajío]((https://www.lasallebajio.edu.mx/))
 
-- 🌱 I am currently in the race **Software Design and Development**
+- 🌱 Actualmente estoy estudiando **Ingeniería en Electrónica y Telecomunicaciones**
 
 - 🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization
 
