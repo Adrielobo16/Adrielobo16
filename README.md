@@ -72,11 +72,6 @@ I'm a Mechatronics and Embedded Systems student who is passionate about Embedded
 
 <br/>
 
-<div id="user-content-toc">
-  <ul>
-    <summary><h2 style="display: inline-block"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Problem Solving</h2></summary>
-  </ul>
-</div>
 <!--icons and links-->
 <p>
 <a href="https://leetcode.com/Mohamed_Magdi/" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/ccea8959-b23e-4619-893d-18f85870b45e" alt="leetcode" height="50" width="50" /></a>
