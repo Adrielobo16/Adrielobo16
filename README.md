@@ -12,7 +12,7 @@ Holaaa, soy Adriel!
 
 - 🌱 Actualmente estoy estudiando **Ingeniería en Electrónica y Telecomunicaciones**
 
-- 📫 How to reach me **adrielectronica.robotics@gmail.com**
+- 📫 Mándame correo a: **adrielectronica.robotics@gmail.com**
 
 <!-- CONTACTO -->
 <h3 align="left">Contáctame:</h3>
