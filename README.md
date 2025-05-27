@@ -33,7 +33,7 @@ Holaaa, soy Adriel!
 
 <img align="right" width = 250px height = 200px alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" />
 
-I'm a Mechatronics and Embedded Systems student who is passionate about Embedded Systems, CNC Machines, and Automotive Industry.
+Soy estudiante de ingeniería en electrónica y telecomunicaciones.
 
 - 🎓 &nbsp; I’m currently a senior student at Tanta University's Mechatronics Department.
 - 🌱 &nbsp; Learning more about Microcontrollers, Embedded Software, Embedded Linux, CNC Machines&Programming, and AUTOSAR.
