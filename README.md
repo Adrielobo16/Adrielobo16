@@ -35,7 +35,7 @@ Holaaa, soy Adriel!
 
 Soy estudiante de ingeniería en electrónica y telecomunicaciones.
 
-- 🎓 &nbsp; I’m currently a senior student at Tanta University's Mechatronics Department.
+- 🎓 &nbsp; Estoy estudiando en la Universidad La Salle Bajío.
 - 🌱 &nbsp; Learning more about Microcontrollers, Embedded Software, Embedded Linux, CNC Machines&Programming, and AUTOSAR.
   <!-- Connect with me -->
   <!--h2 without bottom border-->
